@@ -1,4 +1,4 @@
-const TELEGRAM_URL = "https://t.me/TU_GRUPO";
+const TELEGRAM_URL = "https://t.me/+dpmUmeX0WSEzN2Rh";
 
 const teams = [
   { name: "México", short: "México", code: "MEX", flag: "mex", power: 78, attack: 76, defense: 74, form: 72, experience: 76, tempo: 71 },
